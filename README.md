@@ -29,7 +29,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Piyush-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  
-  <img align = "right" height="180em" alt="Piyush-walk" src="https://i.ibb.co/7bvs9gh/Sad-Walk-GIF-by-kirun-unscreen.gif">
+  <img align = "right" height="180em" alt="Piyush-walk" src="https://media4.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif?cid=ecf05e47owk1oobsra0f7obsg2yd64xk48dshv2u8qjswj2h&rid=giphy.gif&ct=g">
 </div>
   
 </br>
