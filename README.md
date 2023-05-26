@@ -6,8 +6,9 @@
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushya&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div> -->
- <img align = "right" height="250rem" alt="Piyush-walk" src="https://bestanimations.com/Animals/Mammals/Cats/cats/cute-kitty-animated-gif-2.gif">
- ## My Arsenal
+ <img align = "right" height="250rem" alt="Piyush-walk" src="https://bestanimations.com/media/cats/1215347632cute-kitty-animated-gif-72.gif"/>
+ <i>My Arsenal</i>
+ <br/>
 <div style="display: inline_block"><br>
  <img height="40" align="center" alt="Piyush-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,7 +36,7 @@
   
 </br>
 
-## Contact 
+<i>Contact</i>
 <div> 
   <a href="https://www.linkedin.com/in/piyushya/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/piyush_4r7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
