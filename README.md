@@ -6,7 +6,7 @@
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushya&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div> -->
- <img align = "right" height="250rem" alt="Piyush-walk" src="https://bestanimations.com/media/cats/1215347632cute-kitty-animated-gif-72.gif"/>
+ <img align = "right" height="250rem" alt="Piyush-walk" src="https://bestanimations.com/media/cats/1056407217cute-kitty-animated-gif-59.gif"/>
  <i>My Arsenal</i>
  <br/>
 <div style="display: inline_block"><br>
