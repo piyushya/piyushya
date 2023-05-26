@@ -1,12 +1,12 @@
 ## Hi 🙂, I am Piyush Yadav! 
 </br>
 <p>&#128512 &#128513 &#128514 &#128515 &#128516 &#128517 &#128518 &#128519 &#128520 &#128521</p>
- <div>
+<!--  <div>
   <a href="https://github.com/piyushya">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushya&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
- 
+</div> -->
+ <img align = "right" height="250rem" alt="Piyush-walk" src="https://bestanimations.com/Animals/Mammals/Cats/cats/cute-kitty-animated-gif-2.gif">
  ## My Arsenal
 <div style="display: inline_block"><br>
  <img height="40" align="center" alt="Piyush-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -31,8 +31,6 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img height="40" align="center" alt="Piyush-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 
-  <img align = "right" height="180em" alt="Piyush-walk" src="https://media4.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif?cid=ecf05e47owk1oobsra0f7obsg2yd64xk48dshv2u8qjswj2h&rid=giphy.gif&ct=g">
 </div>
   
 </br>
@@ -45,6 +43,6 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/piyushya/piyushya/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/piyushya/piyushya/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
